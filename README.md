@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi Welcome, i'm Minsup Lee 👋
 
-<!--
-**m1nsuppp/m1nsuppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Stacks
 
-Here are some ideas to get you started:
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪🏼 Tools 
+
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nsuppp&show_icons=true&theme=radical)
+
+
+🐱 About Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](m1nsuppp@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@m1nsuppp)](https://velog.io/@m1nsuppp)
