@@ -1,4 +1,4 @@
-### Hi Welcome, i'm Minsup Lee 👋
+### Hello world, i'm Minsup Lee 👋
 
 🛠️ Stacks
 
