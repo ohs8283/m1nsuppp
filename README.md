@@ -1,6 +1,5 @@
 <h1 align="center">이민섭</h1>
 <br/>
-----
 
 <br/>
 <p align="center">
