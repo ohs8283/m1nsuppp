@@ -9,7 +9,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <br/>
   <br/>
-<a href="https://happysisyphe.tistory.com/">
-<img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
-  </a>
+
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@m1nsuppp)](https://velog.io/@m1nsuppp)
